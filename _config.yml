@@ -6,8 +6,9 @@ author:
 
 description: > # this means to ignore newlines until "baseurl:"
   Como fazer pão de queijo
-   <img src="/pao de queijo.jpg" />
-
+   <img class="center" src="/pao de queijo.jpg" width="100%" align="center" title="Android" alt="Aplicativos para Android" />  
+</p>
+  
 theme: minima
 
 plugins:
